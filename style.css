@@ -1,0 +1,47 @@
+html{ background-color: azure;
+ } 
+ h1{ text-align:center;
+  border-style: groove;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: black;
+  }
+    
+    body {
+    font-size: 14px;
+    color: black;
+    word-spacing: o.5em;
+    line-height: 1.5;
+    text-align: justify;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h1 { color: midnightblue;
+font-weight: bold;
+text-transform: capitalize;
+
+}
+h2{ color: rgb(64, 57, 71);
+text-decoration: underline;
+
+}
+demobox {
+  background-color: #cfc ;
+  padding: 10px ;
+  border: 1px solid green ;
+}
+
+h3 {
+    font-size: 1em;
+    background-color: rgb(65, 209, 149);
+    margin: 20px;
+    padding: 20px;
+}
+
+img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    padding: 10px;
+    align-content: center;
+  }
